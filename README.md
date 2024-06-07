@@ -44,7 +44,7 @@ SpArts simplifies the process of finding suitable activities for children by pro
 ### React Icons
 - **Icon Library**: Provides a collection of icons for enhancing the visual appeal of the application.
 
-## Screen Short for Laptop 
+## SCREEN SHOTS FOR LAPTOP 
 
 [![Home-Page-Laptop.png](https://i.postimg.cc/SKHN2RZ7/Home-Page-Laptop.png)](https://postimg.cc/cKMNPxGr)
 
@@ -52,13 +52,13 @@ SpArts simplifies the process of finding suitable activities for children by pro
 
 [![Home-Page-Laptop3.png](https://i.postimg.cc/vHG86pvj/Home-Page-Laptop3.png)](https://postimg.cc/bdFf7VWH)
 
-## Screen Short For Tablet
+## SCREEN SHOTS FOR TABLET
 
 [![Home-Page-Tablet.png](https://i.postimg.cc/G20d3N2X/Home-Page-Tablet.png)](https://postimg.cc/5HmZns8z)
 
 [![Home-Page-Tablet2.png](https://i.postimg.cc/T2JfGtXc/Home-Page-Tablet2.png)](https://postimg.cc/WtzQw6zD)
 
-## Screen Shorts for Mobile 
+## SCREEN SHORTS FOR MOBILE 
 
 [![Home-Page-Mobile.png](https://i.postimg.cc/FH74ymkP/Home-Page-Mobile.png)](https://postimg.cc/87Q9G2HW)
 
